@@ -21,7 +21,13 @@
 - ⚡ Fun fact: I love to design and learn new things
   
 
-<br/>  
+<br/> 
+
+<div align="center"> 
+<a href="https://app.daily.dev/KrabbyPatty456"><img src="https://api.daily.dev/devcards/3599dae8d69040d6bf6a1afc0f688c36.png?r=9k9" width="400" alt="KrabbyPatty456's Dev Card"/></a>
+</div>
+
+<br/>
 
 
 ## My Skill Set  
