@@ -1,123 +1,66 @@
+### Anyeong! 😊 Thank you for visiting! 👋
 
+<div align="center">
+  <h1>Hi! I'm Patricia Mae Namoro 👋</h1>
+  <p><strong>Software Engineer | Full-Stack Developer</strong></p>
+  <p>Building intuitive, user-centric web experiences with a focus on Laravel and Vue.js.</p>
+</div>
 
-### Anyeong!😊 Thank you for visiting!👋  
-<!-- <div align="center">
-<img src="https://github.com/git-TAP/EPP-Lessons/blob/main/web%20developer.gif?raw=true" align="center" style="width: 100%" />
-</div>  
-   -->
+---
 
-### <div align="center">Hello! I'm Patricia 👋, a designer and a developer👩‍💻 working remotely since 2022 🚀</div>  
-  
+### 🚀 About Me
 
-- 🔭 I’m currently working on [1Export](https://1export.com/)  
-  
+- [cite_start]🔭 **Currently Working:** Junior Software Engineer at [1Export](https://1export.com/)[cite: 15].
+- [cite_start]🌱 **Tech Focus:** Scaling applications with **Laravel**, **Vue.js**, and **Nuxt.js**[cite: 7, 17].
+- [cite_start]🛠️ **Experience:** Skilled in full-stack delivery, pixel-perfect frontend implementation, and AWS-based deployments[cite: 13, 17, 19].
+- [cite_start]🎨 **Design:** I enjoy bridging the gap between design and development using **Figma**[cite: 20].
+- [cite_start]📍 **Location:** Based in Iriga City, Camarines Sur[cite: 4].
 
-- 🌱 I’m currently learning Laravel and Vue  
-  
+---
 
-- ❓ Ask me about anything related to LAMP stack and related technologies😆  
-  
+### 💻 My Skill Set
 
-- ⚡ Fun fact: I love to design and learn new things
-  
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | [cite_start]Vue.js, Nuxt.js, React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind, Bootstrap  |
+| **Backend** | [cite_start]Laravel, PHP, Node.js [cite: 11] |
+| **Databases** | [cite_start]MySQL, MSSQL [cite: 11] |
+| **Tools & DevOps** | [cite_start]Git, GitHub, GitLab, AWS, Figma [cite: 12, 19, 27] |
 
-<br/> 
+---
 
-<div align="center"> 
-<a href="https://app.daily.dev/KrabbyPatty456"><img src="https://api.daily.dev/devcards/3599dae8d69040d6bf6a1afc0f688c36.png?r=9k9" width="400" alt="KrabbyPatty456's Dev Card"/></a>
+### 📊 Professional Highlights
+
+* [cite_start]**1Export:** Leading frontend and backend efforts in an Agile environment to deliver high-quality software[cite: 18].
+* [cite_start]**Mentorship:** Active in reviewing code and driving best practices for maintainable applications[cite: 21].
+* [cite_start]**Education:** Graduate of BS in Information Technology from Camarines Sur Polytechnic Colleges[cite: 31, 32].
+
+---
+
+### 📫 Connect with me  
+
+<div align="center">
+  <a href="https://linkedin.com/in/patricia-namoro" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/patchutiee" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:namoropatriciamae@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br/>
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=patchutiee&style=flat-square" alt="Profile Views" />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>   
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-</div>
-</table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://dev.to/gitpat749" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/git-TAP" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/patchutiee" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/patricia-namoro" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/patchutiee" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/Patchutiee" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/patricianamoro1" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-<!-- ## Github Stats   -->
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=git-TAP&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
-
-<br/>  
-
-  
-
-<br/>  
-
-<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hokkf5r3csmcut27bpebnx5rki&cover_image=true&theme=default" /></div>  
- -->
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=git-TAP&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/namoropatrh" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
 <br />
 
+<div align="center">
+  <a href="https://www.buymeacoffee.com/namoropatrh" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" alt="Buy Me A Coffee" />
+  </a>
+</div>
