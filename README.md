@@ -2,19 +2,19 @@
 
 <div align="center">
   <h1>Hi! I'm Patricia Mae Namoro 👋</h1>
-  <p><strong>Software Engineer | Full-Stack Developer | UX Enthusiast</strong></p>
-  <p>Building intuitive, user-centric web experiences with expertise in the Laravel and Vue ecosystem.</p>
+  <p><strong>Software Engineer | Flexible Frontend Developer</strong></p>
+  <p>Currently building cool things at 1Export and exploring the digital landscape from Iriga City, Philippines. 🏔️</p>
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 A Little About Me
 
-- 🔭 **Current Role:** Junior Software Engineer at [1Export](https://1export.com/) since September 2022.
-- 🛠️ **Expertise:** Specializing in **Laravel**, **Vue.js**, and **Nuxt.js** to create responsive, pixel-perfect web applications.
-- 🌱 **Learning & Innovation:** Continuously exploring emerging technologies to optimize workflows and application performance.
-- 🎨 **Design-to-Code:** Passionate about bridging design and development using **Figma** to translate concepts into user-friendly interfaces.
-- ⚡ **Collaborative Delivery:** Experienced in **Agile** environments, mentoring junior developers, and managing AWS-based deployments.
+- 🔭 **Professional Life:** I'm a Junior Software Engineer at [1Export](https://1export.com/), where I've been since 2022. I focus on making the web a more functional and beautiful place.
+- 🛠️ **The Tech Side:** I’m a flexible frontend developer with a deep love for the **Laravel**, **Vue.js**, and **Nuxt.js** ecosystem. I enjoy the challenge of turning complex logic into smooth, responsive user experiences.
+- 🌱 **Growth Mindset:** I’m always learning something new—whether it’s a new framework or a more efficient way to deploy via AWS.
+- 🏠 **Personal Side:** When I'm not behind a screen, I'm likely enjoying the pace of life in Bicol. I'm a big believer in continuous growth, both in my code and in my personal life.
+- ⚡ **Fun Fact:** I still have a huge passion for design and aesthetics, even if I've moved away from specific tools. I love the process of creating something from nothing.
 
 ---
 
@@ -28,14 +28,16 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | Vue.js, Nuxt.js, React, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind, Bootstrap, Sass, Quasar |
+| **Frontend** | Vue.js, Nuxt.js, React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind, Bootstrap, Sass, Quasar |
 | **Backend** | PHP, Laravel, Node.js |
 | **Databases** | MySQL, MSSQL |
-| **Tools & DevOps** | Git, GitHub, GitLab, AWS, Figma |
+| **Tools & DevOps** | Git, GitHub, GitLab, AWS |
 
 ---
 
-### 📫 Connect with me  
+### 📫 Let's Connect!
+
+I'm always open to chatting about the LAMP stack, frontend trends, or just life in general.
 
 <div align="center">
 <a href="https://linkedin.com/in/patricia-namoro" target="_blank">
@@ -49,9 +51,6 @@
 </a>
 <a href="https://twitter.com/patchutiee" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://dribbble.com/Patchutiee" target="_blank">
-<img src="https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
 </a>
 <a href="mailto:namoropatriciamae@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
