@@ -3,18 +3,18 @@
 <div align="center">
   <h1>Hi! I'm Patricia Mae Namoro 👋</h1>
   <p><strong>Software Engineer | Flexible Frontend Developer</strong></p>
-  <p>Currently building cool things at 1Export and exploring the digital landscape from Naga City, Philippines. 🏔️</p>
+  <p>Currently building cool things at 1Export and exploring the digital landscape from Iriga City, Philippines. 🏔️</p>
 </div>
 
 ---
 
 ### 🚀 A Little About Me
 
-- 🔭 **Professional Life:** I'm a Junior Software Engineer at [1Export](https://1export.com/), where I've been since 2022. I focus on making the web a more functional and beautiful place.
-- 🛠️ **The Tech Side:** I’m a flexible frontend developer with a deep love for the **Laravel**, **Vue.js**, and **Nuxt.js** ecosystem. I enjoy the challenge of turning complex logic into smooth, responsive user experiences.
-- 🌱 **Growth Mindset:** I’m always learning something new—whether it’s a new framework or a more efficient way to deploy via AWS.
-- 🏠 **Personal Side:** When I'm not behind a screen, I'm likely enjoying the pace of life in Bicol. I'm a big believer in continuous growth, both in my code and in my personal life.
-- ⚡ **Fun Fact:** I still have a huge passion for design and aesthetics, even if I've moved away from specific tools. I love the process of creating something from nothing.
+- 🔭 I am a Junior Software Engineer at 1Export where I have been since 2022 - I focus on making the web a more functional and beautiful place.
+- 🛠️ I work as a flexible frontend developer with a deep love for the Laravel, Vue.js, and Nuxt.js ecosystem - I enjoy the challenge of turning complex logic into smooth, responsive user experiences.
+- 🌱 I am always learning something new - whether it is a new framework or a more efficient way to deploy via AWS.
+- 🏠 When I am not behind a screen, I am likely enjoying the pace of life here in Bicol - I am a big believer in continuous growth, both in my code and in my personal life.
+- ⚡ I still have a huge passion for design and aesthetics - I love the process of creating something from nothing.
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 📫 Let's Connect!
 
-I'm always open to chatting about the LAMP stack, frontend trends, or just life in general.
+I am always open to chatting about the LAMP stack, frontend trends, or just life in general.
 
 <div align="center">
 <a href="https://linkedin.com/in/patricia-namoro" target="_blank">
