@@ -1,7 +1,7 @@
 ### Anyeong! 😊 Thank you for visiting! 👋
 
 <div align="center">
-  <h1>Hi! I'm Patricia Mae Namoro 👋</h1>
+  <h1>Hi! I'm Patricia Namoro 👋</h1>
   <p><strong>Software Engineer | Flexible Frontend Developer</strong></p>
   <p>Currently building cool things at 1Export and exploring the digital landscape from Naga City, Philippines. 🏔️</p>
 </div>
